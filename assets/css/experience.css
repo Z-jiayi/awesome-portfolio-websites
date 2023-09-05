@@ -91,12 +91,12 @@ section > div {
   color: var(--bg-txt-img);
 }
 
-.experience_head {
+.Project_head {
   font-weight: bold;
 }
 
-/*color of experience page headings*/
-.my_experience {
+/*color of Project page headings*/
+.my_Project {
   color: #4e00bb;
 }
 
@@ -115,11 +115,11 @@ section > div {
   }
 }
 
-.experience-cards {
+.Project-cards {
   margin: 0 auto;
 }
 @media only screen and (max-width: 550px) {
-  .experience-cards {
+  .Project-cards {
     overflow: hidden;
     padding-left: 30px;
     padding-right: 30px;
